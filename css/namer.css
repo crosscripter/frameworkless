@@ -1,0 +1,10 @@
+input { 
+    margin:0 auto;
+    padding: var(--padding);
+    background: var(--dark-gray);
+    color: var(--offwhite);
+    border: 0;
+    border-bottom: 2px solid var(--light-gray);
+}
+
+:focus { outline: none; }

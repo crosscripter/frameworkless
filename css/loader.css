@@ -1,0 +1,9 @@
+.loader {
+    text-align: center;
+    font-size: 0.9rem;
+}
+
+.loader img {
+    display: block;
+    margin: 0 auto;
+}

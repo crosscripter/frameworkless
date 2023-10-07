@@ -1,0 +1,9 @@
+.state { 
+    width: 80vw;
+    display: none; 
+    margin: 0 auto;
+    padding: var(--padding);
+    color: var(--offwhite);
+}
+
+.visible { display: block; }
